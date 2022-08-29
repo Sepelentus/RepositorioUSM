@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+}
+
+#noimportante{
+    background-color: blueviolet;
+}
+
+.parrafo{
+    background-color: cornsilk;
+}
+
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
