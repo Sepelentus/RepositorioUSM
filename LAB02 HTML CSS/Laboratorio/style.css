@@ -1,8 +1,16 @@
+body{
+    font-family: 'Raleway';
+
+
+}
+
 .nav{
     background-color: #85d4b7;
     background-image: url(img/logo.svg);
     width: 100%;
     height: 100px;
+    background-repeat: no-repeat;
+    background-position: 20%;
 }
 
 #vegan{
@@ -10,4 +18,6 @@
     background-image: url(img/vegan.jpg);
     width: 100%;
     height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
