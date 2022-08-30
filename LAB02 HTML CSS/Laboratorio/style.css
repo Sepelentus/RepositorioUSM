@@ -1,0 +1,13 @@
+.nav{
+    background-color: #85d4b7;
+    background-image: url(img/logo.svg);
+    width: 100%;
+    height: 100px;
+}
+
+#vegan{
+    background-color: #6dccaa;
+    background-image: url(img/vegan.jpg);
+    width: 100%;
+    height: 800px;
+}
