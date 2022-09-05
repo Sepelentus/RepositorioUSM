@@ -1,23 +1,40 @@
 body{
-    font-family: 'Raleway';
-
-
+    font-family: 'Raleway', sans-serif;
 }
 
-.nav{
+nav{
+    width: 100vw;
+    height: 10vh;
     background-color: #85d4b7;
-    background-image: url(img/logo.svg);
-    width: 100%;
-    height: 100px;
-    background-repeat: no-repeat;
-    background-position: 20%;
 }
 
-#vegan{
-    background-color: #6dccaa;
-    background-image: url(img/vegan.jpg);
-    width: 100%;
-    height: 800px;
+#logo{
+    width: 30vw;
+    height: 10vh;
+    float: left;
+    background-image: url(img/logo.svg);
     background-repeat: no-repeat;
     background-position: center;
+}
+
+#menu{
+    padding-top: 2vh;
+    width: 70vw;
+    height: 10vh;
+    float: left;
+}
+
+#menu ul{
+    display: inline;
+}
+#menu ul li{
+    float: left;
+    list-style: none;
+}
+#menu ul li a{
+    display: block;
+    padding: 8px;
+    margin-right: 5px;
+    color: #fff;
+    text-decoration: none;
 }
