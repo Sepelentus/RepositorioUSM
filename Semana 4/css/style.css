@@ -1,0 +1,23 @@
+#uno, #dos, #tres, #cuatro{
+    height: 25vh;
+}
+
+#uno{
+    color: rgb(195, 51, 51);
+    background-color: darkcyan;
+}
+
+#dos{
+    color: rgb(80, 80, 239);
+    background-color: slategrey;
+}
+
+#tres{
+    color: darkgreen;
+    background-color: beige;
+}
+
+#cuatro{
+    color:chocolate;
+    background-color: black;
+}
